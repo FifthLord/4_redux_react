@@ -1,5 +1,4 @@
 
-//import React from 'react';
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import { cashReducer } from './cashReducer';
 import { customerReducer } from './customerReducer';
